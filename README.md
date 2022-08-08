@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Cining](https://cining.fr/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/misterflav881](https://github.com/misterflav881)
+- 👨‍💻 All of my projects are available at [Github.com](https://github.com/flavienbx)
 
 - 📫 How to reach me **Flavien@onlyheberg.eu**
 
