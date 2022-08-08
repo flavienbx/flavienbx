@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://github.com/flavienbx"><img src="https://komarev.com/ghpvc/?username=flavienbx&color=dc143c&style=for-the-badge" alt="Flavienbx" /><a/> </p>
 
-- 🔭 I’m currently working on [OnlyHeberg](https://discord.gg/XSB6D5aemJ)
+- 🔭 I’m currently working on [OnlyHeberg](https://onlyheberg.eu)
 
 - 👯 I collaborate with InTheWave [InTheWave](https://discord.gg/NTEAPPGGTU)
 
