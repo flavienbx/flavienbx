@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Flavien</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=flavienbx&color=dc143c&style=for-the-badge" alt="Flavienbx" /> </p>
+<p align="center"> <a href="https://github.com/flavienbx"><img src="https://komarev.com/ghpvc/?username=flavienbx&color=dc143c&style=for-the-badge" alt="Flavienbx" /></> </p>
 
 - 🔭 I’m currently working on [OnlyHeberg](https://discord.gg/XSB6D5aemJ)
 
