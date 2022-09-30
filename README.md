@@ -6,7 +6,7 @@
 
 - 👯 I collaborate with InTheWave [InTheWave](https://discord.gg/NTEAPPGGTU)
 
-- 🤝 I’m looking for help with [Cining](https://cining.fr/)
+- 🤝 I’m looking for help with [Cining](https://cining.fr/) (web site down by ***)
 
 - 👨‍💻 All of my projects are available at [Github.com](https://github.com/flavienbx)
 
