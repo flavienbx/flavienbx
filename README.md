@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://github.com/flavienbx"><img src="https://komarev.com/ghpvc/?username=flavienbx&color=dc143c&style=for-the-badge" alt="Flavienbx" /><a/> </p>
 
-- 🔭 I’m currently working on [Épicentre](https://discord.gg/kG4wXst6FB)
+- 🔭 I’m currently working on [Training-House](https://discord.gg/thouse)
 
 - 👯 I collaborate with InTheWave [InTheWave](https://discord.gg/NTEAPPGGTU)
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Github.com](https://github.com/flavienbx)
 
-- 📫 How to reach me **Flavien@onlyheberg.fr**
+- 📫 How to reach me **Flavien@ipah-group.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
