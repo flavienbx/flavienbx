@@ -2,11 +2,11 @@
 
 <p align="center"> <a href="https://github.com/flavienbx"><img src="https://komarev.com/ghpvc/?username=flavienbx&color=dc143c&style=for-the-badge" alt="Flavienbx" /><a/> </p>
 
-- 🔭 I’m currently working on [Training-House](https://discord.gg/thouse)
+- 🔭 I am the head manager of [IPAH group](https://ipah-group.com)
 
-- 👯 I collaborate with InTheWave [InTheWave](https://discord.gg/NTEAPPGGTU)
+- 👯 I collaborate with [Master Of Fest](https://linktr.ee/masteroffest)
 
-- 🤝 I’m looking for help with [Cining](https://cining.fr/) (web site down by ***)
+- 🤝 I’m currently working at [https://cining.fr/](https://linktr.ee/kapagence)
 
 - 👨‍💻 All of my projects are available at [Github.com](https://github.com/flavienbx)
 
