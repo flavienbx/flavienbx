@@ -6,7 +6,7 @@
 
 - 👯 I collaborate with [Master Of Fest](https://linktr.ee/masteroffest)
 
-- 🤝 I’m currently working at [https://cining.fr/](https://linktr.ee/kapagence)
+- 🤝 I’m currently working at [KAP Agence](https://linktr.ee/kapagence)
 
 - 👨‍💻 All of my projects are available at [Github.com](https://github.com/flavienbx)
 
